@@ -35,6 +35,6 @@
 👉 Become a strong developer & crack good opportunities
 
 ---
-![snake gif](https://github.com/namannjai/namannjai/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/namannjai/namannjai/output/github-contribution-grid-snake.svg)
 ## 📊 My Activity Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=namannjai&theme=tokyo-night)
