@@ -4,7 +4,7 @@
 
 ## 📊 My Activity Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=namannjai&theme=tokyo-night)
-## 🐍 Contribution Snake
+
 
 ![Snake animation](https://github.com/namannjai/namannjai/blob/output/github-contribution-grid-snake.svg)
 ---
