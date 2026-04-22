@@ -6,11 +6,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namannjai\&show_icons=true\&theme=tokyonight)
+
 
 ![Streak](https://streak-stats.demolab.com/?user=namannjai\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namannjai\&layout=compact\&theme=tokyonight)
 
 ---
 
